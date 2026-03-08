@@ -1,11 +1,11 @@
 ## Hola! 👋
 
 
-## Lenguajes
-[![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,r,sqlite,bash,html,css)](https://skillicons.dev) 
+## Lenguajes más usados
+[![Languages](https://skillicons.dev/icons?i=c,cpp,bash,java,python,sqlite,r,html,css)](https://skillicons.dev) 
 
-## Herramientas
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postgres,latex,markdown)](https://skillicons.dev)
+## Herramientas más usadas
+[![Tools](https://skillicons.dev/icons?i=github,vscode,visualstudio,latex,markdown,postgres)](https://skillicons.dev)
 
 ## SOs
 [![OS](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows)](https://skillicons.dev)

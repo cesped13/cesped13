@@ -11,3 +11,7 @@ Actualmente estoy estudiando Ingeniería Informática en la Universidad de Santi
 
 ## SOs
 [![OS](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows)](https://skillicons.dev)
+
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=cesped13&show_icons=true&theme=tokyonight)

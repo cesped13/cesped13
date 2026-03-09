@@ -5,7 +5,6 @@ Nada de esto está revisado ni corregido, puede contener errores y se debe usar 
 Utilizo este perfil por si a alguien le ayuda y que también me sirva como nube personal.
 
 Actualmente estoy estudiando **Ingeniería Informática** en la **Universidad de Santiago de Compostela (USC)**.  
-En la bio de mi perfil están mis otras redes. 
 
 <br>
 

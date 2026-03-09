@@ -1,13 +1,26 @@
-## Hola! 👋
+### Hola! 👋
+Bienvenido a mi perfil de GitHub. Aquí encontrarás repositorios relacionados con proyectos de la universidad.
 
-Bienvenido a mi perfil de GitHub. Aquí encontrarás repositorios relacionados con proyectos de la universidad, ejercicios de programación y algunos trabajos personales. Nada de esto está revisado ni corregido, puede contener errores y se debe usar sólo como referencias. 
-Actualmente estoy estudiando Ingeniería Informática en la Universidad de Santiago de Compostela (USC). Utilizo este perfil para compartir lo que voy desarrollando y que también me sirva para almacenarlo online.
+Nada de esto está revisado ni corregido, puede contener errores y se debe usar sólo como referencias.
+Utilizo este perfil por si a alguien le ayuda y que también me sirva como nube personal.
 
-## Lenguajes más usados
+Actualmente estoy estudiando **Ingeniería Informática** en la **Universidad de Santiago de Compostela (USC)**.  
+En la bio de mi perfil están mis otras redes. 
+
+<br>
+
+### Prácticas de segundo  
+
+[Prácticas...](https://github.com/cesped13/repo)
+
+<br>
+
+_________________________________
+### Lenguajes más usados
 [![Languages](https://skillicons.dev/icons?i=c,cpp,bash,java,python,sqlite,html,css,r)](https://skillicons.dev) 
 
-## Herramientas más usadas
+### Herramientas más usadas
 [![Tools](https://skillicons.dev/icons?i=github,vscode,visualstudio,latex,markdown,postgres)](https://skillicons.dev)
 
-## SOs
+### SOs
 [![OS](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows)](https://skillicons.dev)

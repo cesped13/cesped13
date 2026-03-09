@@ -7,9 +7,12 @@ Utilizo este perfil por si a alguien le ayuda y que también me sirva como nube 
 Actualmente estoy estudiando **Ingeniería Informática** en la **Universidad de Santiago de Compostela (USC)**.  
 <br>
 
-### Prácticas de segundo  
+### Prácticas de segundo 
 
-[Prácticas...](https://github.com/cesped13/repo)
+[AED](https://github.com/cesped13/repo)  
+[POO](https://github.com/cesped13/repo)  
+[SOI](https://github.com/cesped13/repo)  
+[COGA](https://github.com/cesped13/repo)
 
 <br>
 

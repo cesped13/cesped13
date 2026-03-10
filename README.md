@@ -27,7 +27,7 @@ _________________________________
 [![Languages](https://skillicons.dev/icons?i=c,cpp,bash,java,python,sqlite,html,css,r)](https://skillicons.dev) 
 
 ### Herramientas más usadas
-[![Tools](https://skillicons.dev/icons?i=github,vscode,visualstudio,latex,markdown,postgres)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,latex,markdown,postgres)](https://skillicons.dev)
 
 ### SOs
 [![OS](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows)](https://skillicons.dev)

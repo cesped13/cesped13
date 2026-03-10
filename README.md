@@ -1,4 +1,4 @@
-### Hola! 👋
+### Hola! 
 Bienvenido a mi perfil de GitHub. Aquí encontrarás repositorios relacionados con proyectos de la universidad.
 
 Nada de esto está revisado ni corregido, puede contener errores y se debe usar sólo como referencias.

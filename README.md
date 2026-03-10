@@ -6,14 +6,20 @@ Utilizo este perfil por si a alguien le ayuda y que también me sirva como nube 
 
 Actualmente estoy estudiando **Ingeniería Informática** en la **Universidad de Santiago de Compostela (USC)**.  
 <br>
+_________________________________  
+## Segundo  
+#### Primer cuatri  
+[AED](https://github.com/cesped13/repo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[POO](https://github.com/cesped13/repo)    [SOI](https://github.com/cesped13/repo) 
 
-### Prácticas de segundo 
-
+#### Segundo cuatri  
+[COGA](https://github.com/cesped13/repo)
+<br>
+_________________________________  
+## Tercero  
+#### Primer cuatri  
 [AED](https://github.com/cesped13/repo)  
 [POO](https://github.com/cesped13/repo)  
 [SOI](https://github.com/cesped13/repo)  
-[COGA](https://github.com/cesped13/repo)
-
 <br>
 
 _________________________________

@@ -15,7 +15,7 @@ _________________________________
 [AED](https://github.com/cesped13/AED)&nbsp;&nbsp;&nbsp;&nbsp;[POO](https://github.com/cesped13/POO)
 
 #### Segundo cuatri  
-[COGA](https://github.com/cesped13/COGA)&nbsp;&nbsp;&nbsp;&nbsp;[SOII](https://github.com/cesped13/SOII)&nbsp;&nbsp;&nbsp;&nbsp;[BDII](https://github.com/cesped13/BDII)
+[COGA](https://github.com/cesped13/COGA)&nbsp;&nbsp;&nbsp;&nbsp;[SOII](https://github.com/cesped13/SOII)&nbsp;&nbsp;&nbsp;&nbsp;[BDII](https://github.com/cesped13/BDII)&nbsp;&nbsp;&nbsp;&nbsp;[DISOFT](https://github.com/cesped13/DISOFT)
 <br>
 _________________________________  
 ## Tercero  

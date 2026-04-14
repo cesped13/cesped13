@@ -21,6 +21,11 @@ _________________________________
 ## Tercero  
 #### Primer cuatri  
 [CODIS](https://github.com/cesped13/CODIS)&nbsp;&nbsp;&nbsp;&nbsp;[IA](https://github.com/cesped13/IA)
+<br>
+_________________________________  
+## Otros Proyectos  
+#### Impacthon ETSE 2026  
+[NoMo](https://github.com/cesped13/impacthon-NoMo)
 
 <br>
 

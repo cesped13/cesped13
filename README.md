@@ -41,7 +41,7 @@ _________________________________
 
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cesped13/cesped13/blob/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://github.com/cesped13/cesped13/blob/output/github-snake.svg" />
 </picture>
 

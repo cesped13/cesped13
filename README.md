@@ -8,7 +8,12 @@ Utilizo este perfil por si a alguien le ayuda y que también me sirva como nube 
 No guardo todo el material de todas las asignaturas, solo proyectos "grandes" de código o cosas que me parecen interesantes (no ejercicios en libreta o ejercicios pequeños de programar).  
 
 Mientras vaya recuperando más prácticas iré creando repos de las asignaturas que quedan. 
-<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cesped13/cesped13/blob/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://github.com/cesped13/cesped13/blob/output/github-snake.svg" />
+</picture>
+
 _________________________________  
 ## Segundo  
 #### Primer cuatri  
@@ -38,10 +43,4 @@ _________________________________
 
 ### SOs
 [![OS](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows)](https://skillicons.dev)
-
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cesped13/cesped13/blob/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://github.com/cesped13/cesped13/blob/output/github-snake.svg" />
-</picture>
 

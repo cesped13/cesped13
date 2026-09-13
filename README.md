@@ -20,12 +20,15 @@ _________________________________
 [AED](https://github.com/cesped13/AED)&nbsp;&nbsp;&nbsp;&nbsp;[POO](https://github.com/cesped13/POO)
 
 #### Segundo cuatri  
-[COGA](https://github.com/cesped13/COGA)&nbsp;&nbsp;&nbsp;&nbsp;[SOII](https://github.com/cesped13/SOII)&nbsp;&nbsp;&nbsp;&nbsp;[BDII](https://github.com/cesped13/BDII)&nbsp;&nbsp;&nbsp;&nbsp;[DISOFT](https://github.com/cesped13/DISOFT)
+[COGA](https://github.com/cesped13/COGA)&nbsp;&nbsp;&nbsp;&nbsp;[SOII](https://github.com/cesped13/SOII)&nbsp;&nbsp;&nbsp;&nbsp;[BDII](https://github.com/cesped13/BDII)&nbsp;&nbsp;&nbsp;&nbsp;[DISOFT](https://github.com/cesped13/DISOFT)&nbsp;&nbsp;&nbsp;&nbsp;[ARCOMP](https://github.com/cesped13/ARCOMP)
 <br>
 _________________________________  
 ## Tercero  
 #### Primer cuatri  
-[CODIS](https://github.com/cesped13/CODIS)&nbsp;&nbsp;&nbsp;&nbsp;[IA](https://github.com/cesped13/IA)
+[CODIS](https://github.com/cesped13/CODIS)&nbsp;&nbsp;&nbsp;&nbsp;[IA](https://github.com/cesped13/IA)&nbsp;&nbsp;&nbsp;&nbsp;[ENSO](https://github.com/cesped13/ENSO)
+
+#### Segundo cuatri
+[DAW](https://github.com/cesped13/DAW)&nbsp;&nbsp;&nbsp;&nbsp;[COMPILADORES](https://github.com/cesped13/COMPILADORES)&nbsp;&nbsp;&nbsp;&nbsp;[CIBERSEG](https://github.com/cesped13/CIBERSEG)
 <br>
 _________________________________  
 ## Otros Proyectos  
